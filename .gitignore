@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# ML artifacts
+*.joblib
+
+# Databases
+*.db
+
+# OS
+.DS_Store
